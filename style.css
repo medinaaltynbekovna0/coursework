@@ -1,0 +1,25 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #191919;
+	
+	color: white;
+}
+
+nav ul {
+	list-style-type: none;
+	display: flex;
+	justify-content: space-between;
+}
+
+nav ul li a {
+	text-decoration: none;
+	
+	color: white;
+}
+.main-image{
+	display: flex;
+	justify-content: space-between;
+}
