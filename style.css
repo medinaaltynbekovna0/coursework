@@ -5,7 +5,7 @@
 body {
 	background-color: #191919;
 	font-family: sans-serif;
-	color: white;
+	color:white;
 
 }
 
@@ -18,7 +18,6 @@ nav ul {
 
 nav ul li a {
 	text-decoration: none;
-
 	margin: 1rem;
 	color: white;
 }
@@ -40,11 +39,22 @@ nav ul li a {
 	color: white;
  justify-content: flex-end;
  display: block;
+ float: right;
+ 
+ 
 
 }
+.main-image {
+	display: flex;
+	padding: 38px;
+	width: 100%;
+  
+}
+
+
 .section-episode button {
 	border: none;
-	background-color: #118DA8;;
+	background-color: #118DA8;
 	border-radius: 6px;
 	width: 178px;
 	height: 51px;
@@ -52,5 +62,9 @@ nav ul li a {
  justify-content: flex-end;
  display: block;
  font-family: 'DM Sans';
+}
+
+.main-image { 
+
 
 }
