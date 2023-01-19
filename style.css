@@ -4,22 +4,53 @@
 
 body {
 	background-color: #191919;
-	
+	font-family: sans-serif;
 	color: white;
+
 }
 
 nav ul {
 	list-style-type: none;
 	display: flex;
-	justify-content: space-between;
+	justify-content: flex-end;
+
 }
 
 nav ul li a {
 	text-decoration: none;
-	
+
+	margin: 1rem;
 	color: white;
 }
-.main-image{
+
+.main-image {
 	display: flex;
-	justify-content: space-between;
+	padding: 40px;
+	width: 100%;
+	margin: 2rem;
+
+}
+
+.section-episode button {
+	border: none;
+	background-color: #118DA8;
+	border-radius: 6px;
+	width: 178px;
+	height: 51px;
+	color: white;
+ justify-content: flex-end;
+ display: block;
+
+}
+.section-episode button {
+	border: none;
+	background-color: #118DA8;;
+	border-radius: 6px;
+	width: 178px;
+	height: 51px;
+	color: white;
+ justify-content: flex-end;
+ display: block;
+ font-family: 'DM Sans';
+
 }
