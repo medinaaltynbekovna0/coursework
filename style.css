@@ -89,7 +89,8 @@ body {
 }
 
 [class^="col"] {
-	padding: 0 10px;
+	background-color: #191919;
+	padding: ;
 }
 
 .col-1 {
