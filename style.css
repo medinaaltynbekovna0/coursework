@@ -89,12 +89,14 @@ body {
 }
 
 [class^="col"] {
-	background-color: #191919;
-	padding: ;
+	background: #191919;
+	border-style: none;
+	
+
 }
 
 .col-1 {
-	flex: 8.3% 0 0;
+	background: #191919;
 }
 
 .col-2 {
