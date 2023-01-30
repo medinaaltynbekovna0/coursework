@@ -91,7 +91,8 @@ body {
 [class^="col"] {
 	background: #191919;
 	border-style: none;
-	
+  width: px;
+  height: px;
 
 }
 
