@@ -106,4 +106,5 @@ body {
 .card {
 	background-color: black;
 	margin: 2rem;
+	border-radius: 32px;
 }
