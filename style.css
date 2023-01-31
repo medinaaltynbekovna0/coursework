@@ -56,5 +56,8 @@ body {
 }
 .navbar ul {
 	display: flex;
+	margin: 1rem;
 }
-.
+.navbar ul li{
+	list-style-type: none;
+}
