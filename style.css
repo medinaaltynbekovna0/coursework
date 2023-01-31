@@ -54,3 +54,7 @@ body {
 .col-12 {
   flex: 0 0 100%;
 }
+.navbar ul {
+	display: flex;
+}
+.
