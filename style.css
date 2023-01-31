@@ -4,7 +4,7 @@
 
 body {
 	background-color: #191919;
-	font-family: sans-serif;
+	font-family: 'DM Sans', sans-serif;
 	color: white;
 
 }
@@ -80,6 +80,7 @@ body {
 .navbar ul {
 	display: flex;
 	margin: 1rem;
+
 }
 
 .navbar ul li {
