@@ -93,5 +93,11 @@ body {
 	padding: 2rem;
 }
 .episodes {
-	margin: 2rem;
+	justify-content: space-between;
+	align-items: center;
+}
+.btn-1 { 
+	color: white;
+ background-color:  #118DA8;
+ 
 }
