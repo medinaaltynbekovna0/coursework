@@ -61,3 +61,6 @@ body {
 .navbar ul li{
 	list-style-type: none;
 }
+.navbar ul li a{
+	text-decoration: none;
+}
