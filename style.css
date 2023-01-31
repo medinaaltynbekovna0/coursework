@@ -103,3 +103,7 @@ body {
 	background-color: #118DA8;
 	padding: .5rem;
 }
+.card {
+	background-color: black;
+	margin: 2rem;
+}
