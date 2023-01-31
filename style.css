@@ -64,4 +64,5 @@ body {
 .navbar ul li a{
 	text-decoration: none;
 	color: white;
+	padding: 2rem;
 }
