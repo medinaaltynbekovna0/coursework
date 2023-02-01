@@ -121,3 +121,6 @@ margin: 1rem 0;
   text-decoration: none;
 
 }
+.card h2{
+	font-weight: 400;
+}
