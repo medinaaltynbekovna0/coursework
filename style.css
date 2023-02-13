@@ -150,3 +150,10 @@ body {
 	border-radius: 40px;
 	right: 67.46%;
 }
+.jacob .col-6 img{
+float: right;
+height: 470px;
+width: 450px;
+align-items: right;
+margin-right: auto;
+}
