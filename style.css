@@ -150,6 +150,13 @@ body {
 	border-radius: 40px;
 	right: 67.46%;
 }
+
+.card-3 {
+margin:  0 auto;
+display: flex;
+justify-content: center;
+}
+
 .jacob .col-6 img{
 float: right;
 height: 470px;
