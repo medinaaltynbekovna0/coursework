@@ -166,5 +166,8 @@ margin-right: auto;
 }
 
 .ciracle .col-6 img{
-	
+height: 12px;
+width: 12px;
+border-radius: 40px;
+
 }
