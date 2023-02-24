@@ -14,7 +14,7 @@ body {
 	flex-wrap: wrap;
 }
 
-[class^="col"] {
+[class="col"] {
 	padding: 0 0.5rem;
 }
 
