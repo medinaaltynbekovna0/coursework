@@ -174,9 +174,8 @@ background-color: #118DA8;
 
 }
 .strelka.png .col-6 img{
-height: 112px;
-width: 112px;
-background: url(.png);
-border-radius: 0px;
-transform: rotate(-90deg);
+background-color: #118DA8;
+border-radius: 400px;
+width: 82px;
+height: 82px;
 }
