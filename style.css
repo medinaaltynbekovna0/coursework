@@ -137,10 +137,14 @@ body {
 	padding: 80px 300px;
 }
 
-.card-2 {
-	background: #191919;
-	border: 1px solid #191919;
-	border-radius: 6px;
+.card-2 .col-6{
+border: 1px;
+border-radius: 6px;
+position: absolute;
+height: 300px;
+left: 57px;
+right: 57px;
+
 }
 
 .card-3 {
