@@ -183,6 +183,6 @@ width: 82px;
 height: 82px;
 }
 
-.footer {
-	justify-content: space-between;
+.footer ul li {
+	list-style-type: none;
 }
