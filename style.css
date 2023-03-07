@@ -171,19 +171,14 @@ align-items: right;
 margin-right: auto;
 }
 
-.ciracle .col-6 img{
+.ciracle.png{
 height: 20px;
 width: 20px;
 border-radius: 400px;
 background-color: #118DA8;
 }
 
-.strelka.png .col-6 img{
-background-color: #118DA8;
-border-radius: 400px;
-width: 82px;
-height: 82px;
-}
+
 
 .footer ul li {
 	list-style-type: none;
