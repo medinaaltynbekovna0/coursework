@@ -172,12 +172,13 @@ margin-right: auto;
 }
 
 .ciracle .col-6 img{
-height: 82px;
-width: 82px;
+height: 60px;
+width: 60px;
 border-radius: 400px;
 background-color: #118DA8;
-
-
+}
+.ciracle .col-6 img{
+	
 }
 .strelka.png .col-6 img{
 background-color: #118DA8;
