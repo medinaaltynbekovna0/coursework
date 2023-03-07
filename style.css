@@ -178,7 +178,10 @@ border-radius: 400px;
 background-color: #118DA8;
 }
 .ciracle .col-6 img{
-	
+left: 0%;
+right: 0%;
+top: 0px;
+
 }
 .strelka.png .col-6 img{
 background-color: #118DA8;
