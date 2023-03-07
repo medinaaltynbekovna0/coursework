@@ -134,7 +134,9 @@ body {
 .card-2 .col-6 {
 	background-color: #000000;
 	border-radius: 10px;
-	padding: 80px 300px;}
+	padding: 80px 300px;
+}
+
 
 	.card-2.col-6{
 	background-color: black;
