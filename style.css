@@ -125,25 +125,20 @@ body {
 }
 
 .card-2 {
-	background: #118DA8;
+	background-color: #000000;
 	font-family: 'DM Sans';
 	font-weight: 100;
 	font-size: 15px;
 }
 
-.card-2 .col-6 {
-	background-color: #000000;
-	border-radius: 10px;
-	padding: 80px 300px;
-}
-
-
 	.card-2.col-6{
-	background-color: black;
 	margin: 1rem;
 	border-radius: 10px;
-	padding: 10px 20px;
+	padding: 30px 60px;
 	right: 67.46%;
+  height: 387px;
+  width: 187px;
+  left: 60px;
 
 }
 
@@ -177,7 +172,6 @@ width: 20px;
 border-radius: 400px;
 background-color: #118DA8;
 }
-
 
 
 .footer ul li {
